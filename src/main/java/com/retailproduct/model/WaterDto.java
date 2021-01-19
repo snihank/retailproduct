@@ -13,7 +13,7 @@ import java.util.UUID;
 @Builder
 public class WaterDto {
 
-    private UUID uuid;
+    private UUID id;
     private String waterName;
     private String waterSpec;
     private Long upc;
