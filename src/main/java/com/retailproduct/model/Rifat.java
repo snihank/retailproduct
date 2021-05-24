@@ -7,6 +7,7 @@ public class Rifat {
     String name;
     String address;
     String phNumber;
+    String lastName;
 
     public String getName() {
         return name;
